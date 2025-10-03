@@ -4,7 +4,7 @@
 
 Hi, I'm **Bharatkumar**, a passionate **Full Stack Developer** enthusiastic about building scalable, AI-powered web applications. I love exploring innovative ways to make learning and development more interactive and impactful.
 
-> *I'm always exploring, building, and helping others learn along the way of Full Stack Development!*
+> *Learning, building, and turning ideas into impact.*
 
 ---
 
@@ -19,7 +19,7 @@ Hi, I'm **Bharatkumar**, a passionate **Full Stack Developer** enthusiastic abou
 
 🔹 Building **scalable web applications** powered by AI and modern technologies
 
-🔹 Exploring **LangChain, LlamaIndex**, and building creative tools with advanced AI
+🔹 Exploring **GenAI**
 
 ---
 
