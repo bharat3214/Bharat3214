@@ -1,4 +1,8 @@
-# Hi, I'm Bharatkumar Mularam Gungoman 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bharat3214" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1200&width=650&color=39ff14&lines=Hi,+I'm+Bharatkumar+Gungoman!+👋" />
+</h1>
+
 
 ## 🚀 Full Stack Developer
 
