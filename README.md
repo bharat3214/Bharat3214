@@ -10,22 +10,6 @@ Hi, I'm **Bharatkumar**, a passionate **Full Stack Developer** enthusiastic abou
 
 > *Learning, building, and turning ideas into impact.*
 
----
-
-## 🎯 Current Projects
-
-🔹 **AI-Powered Learning Platform** - Developing a comprehensive platform for students and professors with:
-  - ⚡ Integrated **IDE and Terminal** for seamless coding experience
-  - 🤝 **Resource-sharing features** with Git integration
-  - 👨‍🏫 Real-time **progress monitoring** for professors
-  - 💬 **Collaborative coding sessions** with live guidance
-  - 📊 Interactive learning environment for enhanced education
-
-🔹 Building **scalable web applications** powered by AI and modern technologies
-
-🔹 Exploring **GenAI**
-
----
 
 ## 🌐 Connect with Me
 
