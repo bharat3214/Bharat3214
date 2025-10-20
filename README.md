@@ -4,9 +4,9 @@
 </h1>
 
 
-## 🚀 Full Stack Developer
 
-Hi, I'm **Bharatkumar**, a passionate **Full Stack Developer** enthusiastic about building scalable, AI-powered web applications. I love exploring innovative ways to make learning and development more interactive and impactful and I also serve as the Tech Head (Dev/DB) at GDGoC APSIT, leading technical initiatives and mentoring others.
+Hi, I'm **Bharatkumar**, IT engineering student and Tech Head at GDGoC APSIT with practical experience in AI/ML, GenAI, and
+Full-stack development. Participated in 6+ hackathons and built real-world projects
 
 > *Learning, building, and turning ideas into impact.*
 
