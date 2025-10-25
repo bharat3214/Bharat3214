@@ -27,7 +27,7 @@ Full-stack development. Participated in 6+ hackathons and built real-world proje
 </a>
 </p>
 
-💻 Portfolio
+## 💻 Portfolio
 <p align="left">
 <a href="https://bharatgungoman.netlify.app/" target="_blank"> 
     <img src="https://img.shields.io/badge/View%20Portfolio-00C853?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio"/> 
